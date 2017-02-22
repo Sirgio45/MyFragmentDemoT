@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFragmentDemoT</string>
+    <string name="fragone_label_text">My first Fragment</string>
+</resources>
